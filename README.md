@@ -19,6 +19,7 @@ This is the main LaTeX file containing the Beamer code for the presentation. It 
 This file provides an overview of the project, usage instructions, and details about the content.
 
 ---
+### 3. a generate pdf as the output for the work
 
 ## How to Use
 
